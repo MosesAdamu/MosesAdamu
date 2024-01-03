@@ -2,7 +2,7 @@
 
 **Moses Adamu is an accomplished Product Manager who orchestrates visionary product strategies and leads cross-functional teams to deliver innovative solutions. Expert in aligning product goals with market demands, fostering collaboration, and continuously driving growth, while proactively identifying and addressing challenges. A seasoned achiever with a proven track record of delivering high-impact, customer-focused products that meet and exceed business objectives.**
 
-** He is also a Data Scientist in training with Bloom Institute of Technology**
+**He is also a Data Scientist in training with Bloom Institute of Technology**
 
 ### I’m currently working on
 - Innovative game production and management at one of Nigeria's top game development studios. 
