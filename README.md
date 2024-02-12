@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Moses Adamu is an accomplished Product Manager who orchestrates visionary product strategies and leads cross-functional teams to deliver innovative solutions. Expert in aligning product goals with market demands, fostering collaboration, and continuously driving growth, while proactively identifying and addressing challenges. A seasoned achiever with a proven track record of delivering high-impact, customer-focused products that meet and exceed business objectives.**
+**Moses Adamu is an accomplished Product Manager and Data Scientist who orchestrates visionary product strategies and leads cross-functional teams to deliver innovative solutions. Expert in aligning product goals with market demands, fostering collaboration, and continuously driving growth, while proactively identifying and addressing challenges. A seasoned achiever with a proven track record of delivering high-impact, customer-focused products that meet and exceed business objectives.**
 
 **He is also a Data Scientist in training with Bloom Institute of Technology**
 
