@@ -11,7 +11,6 @@
 - Advanced game design principles and AI integration in gaming.
 - Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, Machine Learning, Deep Learning & ML Ops, Computer Vision, and Natural Language Processing for a 
   career in Data Science, Data Analytics, Business Intelligence, and Data Engineering.
-- 
 
 ### I’m looking to collaborate on exciting
 - Game development projects
